@@ -83,6 +83,8 @@ By working on this task, I have gained hands-on experience in REST API integrati
 
 # O/P OF PROGRAM:
 
+### For example, if the user enters city = "Kerala" and unit = "metric", the output could look like this:
+
 Enter the city name: kerala
 
 Enter the unit (metric, imperial, standard): 
@@ -104,6 +106,11 @@ Humidity: 45%
 Condition: scattered clouds
 
 *************************************
+
+### If the API call fails or the response is empty, the program will display:
+
+==> ***Error:*** Empty response from the weather service.
+
 
 
 
